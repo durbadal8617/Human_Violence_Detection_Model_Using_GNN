@@ -29,7 +29,7 @@ This model is optimized for real‑time inference, smooth probability curves, an
 * Uses **Exponential Moving Average (EMA)** smoothing.
 * Weighted hybrid probability formula for non‑violence.
 
-### Streamlit Interface**
+### Streamlit Interface
 
 * Real‑time frame display.
 * Live probability bar.
@@ -115,7 +115,7 @@ Supports noisy datasets via:
 
 ---
 
-## 💬 Contact
+## Contact
 
 For questions or collaboration:
 **Durbadal Bhowmik** — *[durbadal.bhowmik8617@gmail.com]*
