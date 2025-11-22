@@ -14,22 +14,22 @@ This model is optimized for real‑time inference, smooth probability curves, an
 
 ##  Features
 
-### ** Hybrid Multi‑Modal Architecture**
+### Hybrid Multi‑Modal Architecture**
 
 * Combines **bounding boxes**, **pose keypoints**, and **graph embeddings**.
 * Learns both spatial pose relations and temporal motion patterns.
 
-### **🎯Accurate Violence Classification**
+### Accurate Violence Classification
 
 * Frame‑wise classification into **Violence** or **Non‑Violence**.
 * Optional **proximity gating** to prevent false positives.
 
-### ** Stable Predictions**
+### Stable Predictions
 
 * Uses **Exponential Moving Average (EMA)** smoothing.
 * Weighted hybrid probability formula for non‑violence.
 
-### ** Streamlit Interface**
+### Streamlit Interface**
 
 * Real‑time frame display.
 * Live probability bar.
@@ -38,7 +38,7 @@ This model is optimized for real‑time inference, smooth probability curves, an
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 ```
 YOLOv8 (Bounding Boxes + Person/Weapon Info)
